@@ -14,8 +14,11 @@ It provides a **smooth animation** and a **gradient-based depth effect** for a *
 ![ProductsPage](./ProductsPage.png)
 ![AnalticsPage](./analytics1.png)
 ![AnalticsPage](./analytics2.png)
-![SettingPage](./Setting.png)
-![OrderPage](./OrderPage.png)
+![SettingPage](./setting.png)
+![OrderPage](./orderPage.png)
+![SalesPage](./salesPage.png)
+![UserPage](./user1.png)
+![UserPage](./user2.png)
 
 ---
 
