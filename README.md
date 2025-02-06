@@ -12,6 +12,10 @@ It provides a **smooth animation** and a **gradient-based depth effect** for a *
 ## 📸 Screenshot
 ![OverviewPage](./OverviewPage.png)
 ![ProductsPage](./ProductsPage.png)
+![AnalticsPage](./analytics1.png)
+![AnalticsPage](./analytics2.png)
+![SettingPage](./Setting.png)
+![OrderPage](./OrderPage.png)
 
 ---
 
