@@ -43,8 +43,4 @@ It provides a **smooth animation** and a **gradient-based depth effect** for a *
 
 ---
 
-## **🛠 Installation & Setup**
-1️⃣ **Clone the repository**  
-```sh
-git clone https://github.com/your-username/react-3d-pie-chart.git
-cd react-3d-pie-chart
+
